@@ -1,2 +1,2 @@
-# Class20
-To write an algorithm to change color of two rectangles when they touch each other
+# p5.play-boilerplate
+Boiler plate for p5.play
